@@ -1,0 +1,123 @@
+[
+     {
+       "product_image": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTLbVxXuTACz2NMwotDxaXTW9hG7Y6nSmjUE2957xlW8W0xiLv-WgxhyWfvuqK8NXxyrimHguabmv8AzDTGaZ0YAjm3yUguW1vhSpaX-64Ms0yCd_5AbAskDtSj_Eqe5f-Ph0t_bwnYKw&usqp=CAc",
+       "product_name": "Samsung Galaxy S23",
+       "rating": 4.7,
+       "price": 79999,
+       "color_available": ["Black", "Green", "Lavender"],
+       "battery_mh": 3900,
+       "offer_percentage": 10,
+       "description": "Flagship Samsung smartphone with Snapdragon 8 Gen 2."
+     },
+     {
+       "product_image": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRpZ7YFqKXkq1alJBJ1LsW0pzzmfWaf3kgAf1_UA_ijUvm-aWW3eSPwpwUJ0AJeKP6vK8NwbRxnmZWDPTYoFkerX34frYtJwU4s4nBB26r7Csxie32D_O0z4IoCVYUuzVR72rvMFc-Rx90&usqp=CAc",
+       "product_name": "iPhone 14 Pro",
+       "rating": 4.8,
+       "price": 129999,
+       "color_available": ["Purple", "Silver", "Gold"],
+       "battery_mh": 3200,
+       "offer_percentage": 5,
+       "description": "Apple's premium iPhone with ProMotion and Dynamic Island."
+     },
+     {
+       "product_image": "image3.jpg",
+       "product_name": "OnePlus 11",
+       "rating": 4.6,
+       "price": 61999,
+       "color_available": ["orange", "Green"],
+       "battery_mh": 5000,
+       "offer_percentage": 15,
+       "description": "OnePlus flagship with Hasselblad cameras and fast charging."
+     },
+     {
+       "product_image": "image4.jpg",
+       "product_name": "Google Pixel 7 Pro",
+       "rating": 4.5,
+       "price": 84999,
+       "color_available": ["yellow", "red", "lightblue"],
+       "battery_mh": 5000,
+       "offer_percentage": 12,
+       "description": "Google's AI-powered camera phone with stock Android experience."
+     },
+     {
+       "product_image": "image5.jpg",
+       "product_name": "Xiaomi 13 Pro",
+       "rating": 4.4,
+       "price": 74999,
+       "color_available": ["Ceramic Black", "Ceramic White"],
+       "battery_mh": 4820,
+       "offer_percentage": 18,
+       "description": "Xiaomi flagship with Leica camera and Snapdragon 8 Gen 2."
+     },
+     {
+       "product_image": "image6.jpg",
+       "product_name": "Realme GT 3",
+       "rating": 4.3,
+       "price": 42999,
+       "color_available": ["Pulse White", "Booster Black"],
+       "battery_mh": 4600,
+       "offer_percentage": 20,
+       "description": "Realme's fastest charging smartphone with 240W charging."
+     },
+     {
+       "product_image": "image7.jpg",
+       "product_name": "Vivo X90 Pro",
+       "rating": 4.5,
+       "price": 85999,
+       "color_available": ["Legendary Black", "Astro Blue"],
+       "battery_mh": 4870,
+       "offer_percentage": 14,
+       "description": "Vivo flagship with Zeiss optics and Dimensity 9200."
+     },
+     {
+       "product_image": "image8.jpg",
+       "product_name": "Asus ROG Phone 6",
+       "rating": 4.7,
+       "price": 72999,
+       "color_available": ["Phantom Black", "Storm White"],
+       "battery_mh": 6000,
+       "offer_percentage": 10,
+       "description": "Gaming beast with AMOLED 165Hz display and AirTriggers."
+     },
+     {
+       "product_image": "image9.jpg",
+       "product_name": "iQOO 11",
+       "rating": 4.6,
+       "price": 59999,
+       "color_available": ["Alpha", "Legend BMW Edition"],
+       "battery_mh": 5000,
+       "offer_percentage": 17,
+       "description": "Performance-centric phone with Snapdragon 8 Gen 2."
+     },
+     {
+       "product_image": "image10.jpg",
+       "product_name": "Motorola Edge 40",
+       "rating": 4.3,
+       "price": 33999,
+       "color_available": ["Eclipse Black", "Nebula Green"],
+       "battery_mh": 4400,
+       "offer_percentage": 22,
+       "description": "Slim and stylish phone with curved OLED and Dimensity 8020."
+     },
+     {
+       "product_image": "image11.jpg",
+       "product_name": "Nothing Phone (1)",
+       "rating": 4.2,
+       "price": 31999,
+       "color_available": ["White", "Black"],
+       "battery_mh": 4500,
+       "offer_percentage": 25,
+       "description": "Unique transparent back with Glyph Interface lighting."
+     },
+     {
+       "product_image": "image12.jpg",
+       "product_name": "Samsung Galaxy A54",
+       "rating": 4.4,
+       "price": 38999,
+       "color_available": ["Awesome Lime", "Awesome Graphite"],
+       "battery_mh": 5000,
+       "offer_percentage": 19,
+       "description": "Mid-range Samsung phone with premium build and AMOLED display."
+     }
+   ]
+   
